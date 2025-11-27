@@ -4,7 +4,7 @@
 
 | 系统          | 稳定版  | 应用商店 | 测试版  |
 |---------------|---------|----------|---------|
-| **Windows**   | [Windows 10+](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app-windows.zip) | [Windows 10+](链接) | [Windows 10+](链接) |
+| **Windows**   | [Windows 10+](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app-windows.zip) 
 | **Android**   | [Android 6+](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app.apk) | [Android 6+](链接) | [Android 6+](链接) |
 | **macOS**     | [macOS 10.13+](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app.dmg) | [macOS 10.13+](链接) | [macOS 10.13+](链接) |
 | **iOS**       | [iOS 11+](https://github.com/你的用户名/my-app-releases/releases/download/v1.0/app.ipa) | [iOS 11+](链接) | [iOS 11+](链接) |
