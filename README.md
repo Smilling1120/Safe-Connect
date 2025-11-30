@@ -1,7 +1,7 @@
+# Safe Connect
+
 <img width="1536" height="1024" alt="safeconnect_logo" src="https://github.com/user-attachments/assets/08522d29-5cd5-45e9-a897-baaa5d498c52" />
 
-
-# Safe Connect
 
 ## Downloads
 
@@ -22,8 +22,12 @@ Wherever you are, it keeps your online activities private, secure, and uninterru
 **Why Choose Safe Connect?**
 
 · Military-grade encryption ensures communication confidentiality.
+
 · Smart Routing, Boosting Network Speed and Stability.
+
 · Protect your passwords, transaction records, and sensitive information.
+
 · Work, entertainment, cross-border access all just a click away.
+
 · We do not collect personal data, truly respecting user privacy.
 
